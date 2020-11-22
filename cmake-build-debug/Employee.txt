@@ -1,0 +1,18 @@
+Empcode: 1Name: jason
+Address: san jose
+Phone Number: 2314342
+Date(dd/mm/yy): 231
+Designation : 1
+Grade: 2
+Loan: 3
+Basic Salary: 1
+House Allowance: 2
+Empcode: 1Name: jason
+Address: san jose
+Phone Number: 2314342
+Date(dd/mm/yy): 231
+Designation : 1
+Grade: 2
+Loan: 3
+Basic Salary: 1
+House Allowance: 2

@@ -1,0 +1,3 @@
+C:/Users/88357/CLionProjects/ITUPayRoll/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/88357/CLionProjects/ITUPayRoll/cmake-build-debug/CMakeFiles/ITUPayRoll.dir
+C:/Users/88357/CLionProjects/ITUPayRoll/cmake-build-debug/CMakeFiles/rebuild_cache.dir
